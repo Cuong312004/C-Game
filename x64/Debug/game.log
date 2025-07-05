@@ -1,0 +1,4 @@
+﻿  coso.cpp
+C:\Users\HP\Desktop\game\totalfunction.h(53,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+C:\Users\HP\Desktop\game\totalfunction.h(66,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  game.vcxproj -> C:\Users\HP\Desktop\game\x64\Debug\game.exe
