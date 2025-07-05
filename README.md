@@ -51,7 +51,7 @@ Written in modern C++ (C++17) with **SDL 2** for rendering, sound, and input.
 
 ---
 
-## ▶️ Demo video & slides
+## ▶️ Demo video 
 * Demo: <https://youtu.be/your_demo_link>  
 
 ---
