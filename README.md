@@ -3,6 +3,9 @@
 A fast‑paced platformer where you guide a ninja through trap‑filled stages and duel a gigantic boss.  
 Written in modern C++ (C++17) with **SDL 2** for rendering, sound, and input.
 
+![Game_play_1](https://github.com/Cuong312004/C-Game/blob/main/Screenshot%202025-07-05%20224129.png)
+![Game_play_2](https://github.com/Cuong312004/C-Game/blob/main/Screenshot%202025-07-05%20224203.png)
+![Game_play_3](https://github.com/Cuong312004/C-Game/blob/main/Screenshot%202025-07-05%20224338.png)
 ---
 
 ## ✨ Gameplay at a glance
